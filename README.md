@@ -61,8 +61,8 @@ Technologies and Tools Used
 
 Internship Details
 
-Organization: CodeAlpha
-Domain: Internet of Things (IoT)
+Organization: CodeAlpha,
+Domain: Internet of Things (IoT),
 Internship: IoT Internship
 
 Author
