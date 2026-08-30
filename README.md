@@ -26,6 +26,7 @@ Tools and Components Used:
 
 - Tinkercad
 - Arduino UNO
+- PIR Sensor
 - LED
 - Resistor
 - Arduino Programming
